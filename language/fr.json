@@ -1,7 +1,7 @@
 {
   "semantics": [
     {
-      "label": "Enable book cover",
+      "label": "Activer page de couverture",
       "description": "A cover that shows info regarding the book before access"
     },
     {
